@@ -1,0 +1,37 @@
+===== Betim =====
+Receita real: 2.683e+09 -> 2.953e+09 (10.1%; 1.07% a.a.)
+Despesa real: 2.173e+09 -> 2.564e+09 (18.0%; 1.86% a.a.)
+Saldo/Receita (%): 19.0, 16.6, 21.7, 26.3, 17.0, 20.7, 24.4, 27.2, 22.2, 13.2 | anos de deficit: 0
+Correlacao em nivel R,D: 0.828 (p=0.0031)
+Correlacao em variacoes: 0.495 (p=0.176); dlnD = a + b dlnR: b=0.496 (ep 0.329; p=0.176)
+Desvio-padrao dlnR=0.074  dlnD=0.074
+Receita pc real: 6,512, 5,744, 6,050, 5,806, 5,597, 5,859, 6,569, 6,642, 6,660, 6,561
+Despesa pc real: 5,274, 4,789, 4,736, 4,278, 4,645, 4,649, 4,963, 4,836, 5,184, 5,697
+Receita/PIB (%): 7.21, 6.57, 7.08, 7.71, 6.99, 7.10, 9.05, 8.06, 6.00, 5.61
+NIVEL  R = a + b PIB(real): b=0.0219  R2=0.380  p=0.0577
+LOGLOG elasticidade=0.333 (ep 0.156; p=0.0663) R2=0.361
+DIFERENCAS dlnR = a + b dlnPIB: b=-0.023 (ep 0.212; p=0.917)
+[CONFERENCIA] receita REAL x PIB NOMINAL (mil R$): b=17.22  R2=0.5240  (combinacao inconsistente; a P1 usou-a para Valadares: b=133,90 e R2=0,8025)
+
+===== Governador Valadares =====
+Receita real: 1.185e+09 -> 1.547e+09 (30.6%; 3.01% a.a.)
+Despesa real: 1.121e+09 -> 1.612e+09 (43.8%; 4.12% a.a.)
+Saldo/Receita (%): 5.4, 2.2, 5.1, 6.7, -1.7, 0.0, 6.4, 7.8, -1.1, -4.2 | anos de deficit: 3
+Correlacao em nivel R,D: 0.963 (p=0.0000)
+Correlacao em variacoes: 0.636 (p=0.066); dlnD = a + b dlnR: b=0.701 (ep 0.322; p=0.066)
+Desvio-padrao dlnR=0.060  dlnD=0.066
+Receita pc real: 4,278, 4,044, 3,933, 4,010, 3,913, 4,254, 4,822, 4,928, 5,328, 5,484
+Despesa pc real: 4,046, 3,957, 3,734, 3,741, 3,980, 4,254, 4,515, 4,544, 5,389, 5,714
+Receita/PIB (%): 14.12, 13.67, 13.63, 13.83, 13.24, 13.75, 16.45, 16.95, 17.90, 17.97
+NIVEL  R = a + b PIB(real): b=0.4102  R2=0.227  p=0.1639
+LOGLOG elasticidade=2.638 (ep 1.724; p=0.1644) R2=0.227
+DIFERENCAS dlnR = a + b dlnPIB: b=0.095 (ep 0.762; p=0.904)
+[CONFERENCIA] receita REAL x PIB NOMINAL (mil R$): b=133.90  R2=0.8025  (combinacao inconsistente; a P1 usou-a para Valadares: b=133,90 e R2=0,8025)
+
+===== Indonésia =====
+Receita real: 2.379e+06 -> 3.131e+06 (31.6%; 3.10% a.a.)
+Despesa real: 2.638e+06 -> 3.476e+06 (31.7%; 3.11% a.a.)
+Saldo/Receita (%): -10.9, -18.3, -17.8, -16.0, -11.3, -14.7, -49.2, -32.1, -14.4, -11.0 | anos de deficit: 10
+Correlacao em nivel R,D: 0.768 (p=0.0094)
+Correlacao em variacoes: 0.281 (p=0.463); dlnD = a + b dlnR: b=0.083 (ep 0.107; p=0.463)
+Desvio-padrao dlnR=0.124  dlnD=0.036

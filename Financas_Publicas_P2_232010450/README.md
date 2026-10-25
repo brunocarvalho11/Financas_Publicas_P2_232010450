@@ -2,7 +2,7 @@
 
 Artigo: **Quem ajusta a quem? Sincronia entre receita e despesa e sensibilidade da arrecadação ao PIB em Betim, Governador Valadares e Indonésia (2014–2023)**
 
-Aluno: [Seu nome] – Matrícula 232010450 · UnB – Ciências Contábeis · Disciplina: Finanças do Setor Público
+Aluno: Bruno Miguel Pereira e Carvalho – Matrícula 232010450 · UnB – Ciências Contábeis · Disciplina: Finanças do Setor Público
 
 ## Estrutura
 
